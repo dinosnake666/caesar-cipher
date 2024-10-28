@@ -1,2 +1,9 @@
 # caesar_cipher
-Encrypts a text message with the Caesar cipher
+## Encrypt a text message with the Caesar cipher !
+
+**Syntax** : `./executable_name` `number` `"text"`
+
+**Compiles with `cc -Wall -Werror -Wextra`**
+
+>[!IMPORTANT]
+> The number must be between -26 and 26 included.
