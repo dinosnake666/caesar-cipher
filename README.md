@@ -1,2 +1,2 @@
 # caesar_cipher
-Encrypt a text message with the Caesar cipher
+Encrypts a text message with the Caesar cipher
