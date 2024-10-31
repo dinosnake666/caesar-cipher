@@ -1,14 +1,11 @@
 #include "../headers/functions.h"
-#include <stdlib.h>
-#include <stdio.h>
-#include <ctype.h>
 
 int main(int argc, char **argv)
 {
     
     if (argc != 3)
     {
-        printf("Error : this program takes 2 user arguments\n");
+        printf("Error : this program takes 2 user arguments:\t./EXE_NAME KEY \"MESSAGE\"");
         return -1;
     }
     
