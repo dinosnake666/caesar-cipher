@@ -1,6 +1,14 @@
 # caesar_cipher
 ## Encrypt a text message with the Caesar cipher !
 
-**Syntax** : `./executable_name` `number` `"text"`
+### What is the Caesar cipher ?
+The [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher) is a quick and easy method of encryption.
+You can also see it's "big brother", the [Vigenère cipher](https://github.com/dinosnake666/vigenere-cipher).
 
-**Compiles with `cc -Wall -Werror -Wextra`**
+### How to use the code ?
+**Compile with `cc -Wall -Werror -Wextra main/main.c functions/ft_cipher.c`**
+
+**Syntax to use the code : `./executable_name` `key_number` `"plaintext"`**
+
+[!TIP]
+> This program keeps the lettercase of the plaintext !
