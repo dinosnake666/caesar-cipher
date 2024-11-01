@@ -10,5 +10,5 @@ You can also see it's "big brother", the [Vigenère cipher](https://github.com/d
 
 **Syntax to use the code : `./executable_name` `key_number` `"plaintext"`**
 
-[!TIP]
+> [!TIP]
 > This program keeps the lettercase of the plaintext !
