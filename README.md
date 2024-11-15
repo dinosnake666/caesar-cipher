@@ -11,4 +11,4 @@ You can also see it's "big brother", the [Vigenère cipher](https://github.com/d
 **Syntax to use the code : `./executable_name` `key_number` `"plaintext"`**
 
 > [!TIP]
-> This program encrypts the alphabetical : no worries for long text encryption !
+> This program encrypts the alphabetical characters : no worries for long text encryption !
