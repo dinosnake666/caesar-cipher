@@ -1,4 +1,4 @@
-# caesar_cipher
+# caesar-cipher
 ## Encrypt a text message with the Caesar cipher !
 
 ### What is the Caesar cipher ?
@@ -11,4 +11,4 @@ You can also see it's "big brother", the [Vigenère cipher](https://github.com/d
 **Syntax to use the code : `./executable_name` `key_number` `"plaintext"`**
 
 > [!TIP]
-> This program keeps the lettercase of the plaintext !
+> This program encrypts the alphabetical : no worries for long text encryption !
